@@ -1,0 +1,23 @@
+Acuteangle30!
+
+
+Location-us-east-1
+Secret Key- 44hZfFRPTbsQdL27EYOJ9EjUCQFiBg2P73YEjmdM
+Access Key- AKIA47UFPBK3SWNTLUH3
+Subnet id- subnet-07d221b856033b0f5
+Security Grp- sg-04ac61afa3eb08a8e
+Key Pair- Test
+Instance type- t2.micro
+Ami Id- ami-03ededff12e34e59e
+
+Install Terraform
+
+will create file with resource and all
+
+terraform Init
+
+Terraform plan
+
+terraform apply
+
+Terraform destroy
